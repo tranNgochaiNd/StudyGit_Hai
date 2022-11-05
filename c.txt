@@ -1,3 +1,4 @@
 Noi dung C
 
 Sua boi Master D2
+sua doi khi duoc push github
